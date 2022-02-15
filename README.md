@@ -9,10 +9,10 @@ pergeseran kanan 1:
       var dekripsi  = .'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
       var enkripsi  = 'ZYXWVUTSRQPONMLKJIHGFEDCBAZYXWVUTSRQPONMLKJIHGFEDCBA';
       
-      ==>disini posisi 'A' sejajar dengan 'Y', dan 'Z' sejajar dengan 'Z';
+      disini posisi 'A' sejajar dengan 'Y', dan 'Z' sejajar dengan 'Z';
       
 pergeseran kiri 1:
       var dekripsi  =                          'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.;
       var enkripsi  = 'ZYXWVUTSRQPONMLKJIHGFEDCBAZYXWVUTSRQPONMLKJIHGFEDCBA';
       
-      ==>disini posisi 'A' sejajar dengan 'A', dan 'Z' sejajar dengan 'B';
+      disini posisi 'A' sejajar dengan 'A', dan 'Z' sejajar dengan 'B';
