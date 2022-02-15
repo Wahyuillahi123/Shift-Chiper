@@ -1,5 +1,5 @@
 # Shift-Chiper-Kriptografi-Besic-CyberSecurity
-Shift Chiper(Caesar Cipher) adalah jenis kriptografi menggunakan teknik perhitungan jumlah index dengan perbandingan jumlah pergeseran index yaitu kanan dan kiri.
+Shift Cipher(Caesar Cipher) adalah jenis kriptografi menggunakan teknik perhitungan jumlah index dengan perbandingan jumlah pergeseran index yaitu kanan dan kiri.
 
 1.sebagai gambaran 0:
       var dekripsi  = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
