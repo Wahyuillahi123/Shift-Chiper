@@ -16,3 +16,7 @@ Shift Chiper adalah jenis kriptografi menggunakan teknik perhitungan jumlah inde
       var enkripsi  = 'ZYXWVUTSRQPONMLKJIHGFEDCBAZYXWVUTSRQPONMLKJIHGFEDCBA';
       
       disini posisi 'A' sejajar dengan 'A', dan 'Z' sejajar dengan 'B';
+      
+      
+Follow my instagram : https://www.instagram.com/wahyu_illahi07/ 
+Youtube Channel : https://www.youtube.com/playlist?list=PL2DC6n3PrEKVXN9nvzONe9idXa9BgCusj
